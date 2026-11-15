@@ -8,7 +8,7 @@ Official support and contact page for Silence Dog, by Casaxmore.
 
 ## Contents
 
-`index.html` is a responsive static page with Spanish and English copy, a language switch, accessible native FAQ disclosures, and a mailto contact link with an optional support-message template. Browser language selects the initial locale; `?lang=es` or `?lang=en` provides a direct locale link. No contact form backend, analytics, cookies, external fonts, or third-party scripts are used.
+`index.html` is a responsive static page with Spanish and English copy, a language switch, accessible native FAQ disclosures, and a mailto contact link with an optional support-message template. English is the default, regardless of browser language; `?lang=es` or `?lang=en` provides a direct locale link. No contact form backend, analytics, cookies, external fonts, or third-party scripts are used.
 
 `icono.jpg` is the existing app icon. `app-ads.txt` contains the authorized advertising seller record and must be preserved when updating the page.
 
