@@ -17,3 +17,7 @@ Official support and contact page for Silence Dog, by Casaxmore.
 Run `python3 -m http.server 8080` from this directory and open http://localhost:8080/.
 
 This repository is independent from the SilenceDog iOS application repository.
+
+## Support privacy
+
+`privacy.html` contains the English and Spanish support-website privacy notice. The contact card gives a short first-layer notice and links to the full notice; the footer links to it too. The notice identifies José Manuel Casabona, operating as Casaxmore, and describes email support and GitHub Pages hosting. It does not replace the iOS app’s separate privacy policy. No consent banner, tracking or new data collection was introduced. Retention and rights commitments in the notice must be followed when handling support mail.
